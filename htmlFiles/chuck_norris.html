@@ -8,6 +8,9 @@
         html{
             background-color: rgb(251,195,4);
         }
+        #joke p {
+            font-size: 40px; 
+        }
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -24,23 +27,13 @@
             height: auto;
             margin-bottom: 20px;
         }
-        .joke {
-            font-size: 27px;
-            line-height: 1.5;
-            margin-top: 20px;
-        }
     </style>
 </head>
 <body>
     <div class="container">
         <img src="../images/chuck_norris.png" alt="Chuck Norris">
-        <h1>Joke</h1>
-        <div class="joke">
-            <!-- Placeholder joke -->
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non maximus erat, et bibendum leo. Duis ut massa ante. Sed non felis sit amet augue tincidunt ullamcorper.</p>
-            <p>Curabitur in libero sit amet mi dapibus consectetur. Integer aliquam velit ac quam lacinia, nec blandit nisi aliquet.</p>
-            <!-- You can replace the above placeholder text with your actual joke -->
-        </div>
+        <div id="joke"></div>
     </div>
+    <script src="../script.js"></script>
 </body>
 </html>

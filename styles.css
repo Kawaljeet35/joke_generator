@@ -1,6 +1,7 @@
 html{
     background-color: rgb(251,195,4);
 }
+
 h1{
     font-size: 75px;
 }
@@ -53,4 +54,6 @@ h1{
     }
 }
 
-
+.joke p {
+    font-size: 20px; 
+}

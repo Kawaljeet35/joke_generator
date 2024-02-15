@@ -30,8 +30,5 @@ function loadJokes(category) {
 }
 
 
-// Call the loadJokes function with a category, for example:
-loadJokes('animal');
-
 
 

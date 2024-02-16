@@ -1,1502 +1,1502 @@
 [
-    {
-      "category": "animal",
-      "setup": "Why are teddy bears never hungry?",
-      "punchline": "They are always stuffed!"
-    },
-    {
-      "category": "animal",
-      "setup": "What did the buffalo say to his son when he left for college?",
-      "punchline": "Bison!"
-    },
-    {
-      "category": "animal",
-      "setup": "What steps do you take if a tiger is running toward you?",
-      "punchline": "Big ones!"
-    },
-    {
-      "category": "animal",
-      "setup": "What sound do porcupines make when they kiss?",
-      "punchline": "Ouch!"
-    },
-    {
-      "category": "animal",
-      "setup": "Where do polar bears vote?",
-      "punchline": "The North Poll."
-    },
-    {
-      "category": "animal",
-      "setup": "Where do orcas hear music?",
-      "punchline": "Orca-stras!"
-    },
-    {
-      "category": "animal",
-      "setup": "What fish only swims at night?",
-      "punchline": "A starfish!"
-    },
-    {
-      "category": "animal",
-      "setup": "How long do chickens work?",
-      "punchline": "Around the cluck!"
-    },
-    {
-      "category": "animal",
-      "setup": "Why do cows never have any money?",
-      "punchline": "Because the farmers milk them dry!"
-    },
-    {
-      "category": "animal",
-      "setup": "Where did the sheep go on vacation?",
-      "punchline": "The Baaaahamas."
-    },
-    {
-      "category": "animal",
-      "setup": "What do you call an alligator in a vest?",
-      "punchline": "An investigator!"
-    },
-    {
-      "category": "animal",
-      "setup": "Why did the snake cross the road?",
-      "punchline": "To get to the other ssssssside!"
-    },
-    {
-      "category": "animal",
-      "setup": "What do frogs order when they go to a restaurant?",
-      "punchline": "French flies."
-    },
-    {
-      "category": "animal",
-      "setup": "What does the cat say after making a joke?",
-      "punchline": "Just kitten!"
-    },
-    {
-      "category": "animal",
-      "setup": "What do you call a dog magician?",
-      "punchline": "A Labracadabrador!"
-    },
-    {
-      "category": "animal",
-      "setup": "What is called when all the treats are gone?",
-      "punchline": "A cat-astrophe."
-    },
-    {
-      "category": "animal",
-      "setup": "Why did the cats ask for a drum set?",
-      "punchline": "They wanted to make some mewsic!"
-    },
-    {
-      "category": "animal",
-      "setup": "Why did the fly never land on the computer?",
-      "punchline": "He was afraid of the web."
-    },
-    {
-      "category": "animal",
-      "setup": "Why is a bee's hair always sticky?",
-      "punchline": "Because it uses a honeycomb!"
-    },
-    {
-      "category": "animal",
-      "setup": "Why do birds fly south in the winter? ",
-      "punchline": "Because it's too far to walk!"
-    },
-    {
-      "category": "animal",
-      "setup": "What do ducks watch on TV? ",
-      "punchline": "Duck-umentaries!"
-    },
-    {
-      "category": "animal",
-      "setup": "What kind of bird works at a construction site?",
-      "punchline": "The crane!"
-    },
-    {
-      "category": "animal",
-      "setup": "What do you call a penguin in the desert?",
-      "punchline": "Lost."
-    },
-    {
-      "category": "animal",
-      "setup": "What do rabbits eat for breakfast?",
-      "punchline": "IHOP."
-    },
-    {
-      "category": "animal",
-      "setup": "Why do cows go to New York?",
-      "punchline": "To see the moo-sicals!"
-    },
-    {
-      "category": "blondes",
-      "setup": "Why can't a blonde dial 911?",
-      "punchline": "She can't find the eleven."
-    },
-    {
-      "category": "blondes",
-      "setup": "Why did the blonde put her iPad in a blender?",
-      "punchline": "Because she wanted to make apple juice."
-    },
-    {
-      "category": "blondes",
-      "setup": "How did the blonde try to kill the bird?",
-      "punchline": "She threw it off a cliff."
-    },
-    {
-      "category": "blondes",
-      "setup": "How did the blonde die drinking milk?",
-      "punchline": "The cow fell on her."
-    },
-    {
-      "category": "blondes",
-      "setup": "What do you call a blonde with a brain?",
-      "punchline": "A golden retriever."
-    },
-    {
-      "category": "blondes",
-      "setup": "How do you get a one handed blonde down from a tree? ",
-      "punchline": "Wave at her."
-    },
-    {
-      "category": "blondes",
-      "setup": "What do you do when a blonde throws a hand grenade at you?",
-      "punchline": "Pull the pin and throw it back."
-    },
-    {
-      "category": "blondes",
-      "setup": "Why did the blonde stare at the orange juice bottle for 2 hours?",
-      "punchline": "Because it said 'concentrate'."
-    },
-    {
-      "category": "blondes",
-      "setup": "What is five miles long and has an IQ of 40?",
-      "punchline": "A parade of blonde's."
-    },
-    {
-      "category": "blondes",
-      "setup": "What do you give a blonde who has everything?",
-      "punchline": "Penicillin."
-    },
-    {
-      "category": "blondes",
-      "setup": "What does a blonde do when her laptop computer freezes?",
-      "punchline": "She sticks it in the microwave."
-    },
-    {
-      "category": "blondes",
-      "setup": "What do you call a blonde that dyes her hair red?",
-      "punchline": "Artificial intelligence."
-    },
-    {
-      "category": "blondes",
-      "setup": "What did the blonde say when she found out she was pregnant?",
-      "punchline": "I wonder if it's mine."
-    },
-    {
-      "category": "blondes",
-      "setup": "How do you confuse a blonde?",
-      "punchline": "You don't. They're born that way."
-    },
-    {
-      "category": "blondes",
-      "setup": "What happens when a blonde gets Alzheimers disease?",
-      "punchline": "Her IQ goes up!"
-    },
-    {
-      "category": "blondes",
-      "setup": "How do you sink a submarine full of blondes?",
-      "punchline": "Knock on the door."
-    },
-    {
-      "category": "blondes",
-      "setup": "How many dumb blonde jokes are there?",
-      "punchline": "None they're all true stories."
-    },
-    {
-      "category": "blondes",
-      "setup": "Why do blondes take the pill?",
-      "punchline": "So they know what day of the week it is."
-    },
-    {
-      "category": "blondes",
-      "setup": "Why did the Blonde go to Taco Bell?",
-      "punchline": "To pay her phone bill."
-    },
-    {
-      "category": "blondes",
-      "setup": "Why did the Blonde go to the Apple Store?",
-      "punchline": "She wanted a Big Mac meal."
-    },
-    {
-      "category": "blondes",
-      "setup": "What does a blonde say when you blow in their ear?",
-      "punchline": "Thanks for the refill!"
-    },
-    {
-      "category": "blondes",
-      "setup": "How do you drown a blonde?",
-      "punchline": "Tape a mirror to the bottom of a pool."
-    },
-    {
-      "category": "blondes",
-      "setup": "Why did the blonde put lipstick on her forehead?",
-      "punchline": "She was trying to make up her mind."
-    },
-    {
-      "category": "blondes",
-      "setup": "Why did the blonde purchase a brown cow?",
-      "punchline": "So that she could get chocolate milk."
-    },
-    {
-      "category": "blondes",
-      "setup": "Why were there bullet holes in the mirror?",
-      "punchline": "A blonde tried killing herself."
-    },
-    {
-      "category": "christmas",
-      "setup": "How do you know when Santa's around?",
-      "punchline": "You can always sense his presents."
-    },
-    {
-      "category": "christmas",
-      "setup": "What was Santa's favorite subject in school?",
-      "punchline": "Chemistree."
-    },
-    {
-      "category": "christmas",
-      "setup": "What do baby elves learn in Kindergarten at the North Pole?",
-      "punchline": "The elf-abet."
-    },
-    {
-      "category": "christmas",
-      "setup": "Why did the scarecrow get a big Christmas bonus?",
-      "punchline": "Because he was outstanding in his field."
-    },
-    {
-      "category": "christmas",
-      "setup": "What does Santa suffer from if he gets stuck in a chimney?",
-      "punchline": "Claus-trophobia!"
-    },
-    {
-      "category": "christmas",
-      "setup": "What is Santa's dog's name?",
-      "punchline": "Santa Paws!"
-    },
-    {
-      "category": "christmas",
-      "setup": "Where do Santa's elves go swimming?",
-      "punchline": "The North pool."
-    },
-    {
-      "category": "christmas",
-      "setup": "What kind of motorcycle does Santa drive?",
-      "punchline": "A Holly Davidson!"
-    },
-    {
-      "category": "christmas",
-      "setup": "What is Santa's primary language?",
-      "punchline": "North Polish."
-    },
-    {
-      "category": "christmas",
-      "setup": "Why does Santa go down the chimney?",
-      "punchline": "Because it soots him!"
-    },
-    {
-      "category": "christmas",
-      "setup": "What is Santa's favorite kind of candy?",
-      "punchline": "Jolly ranchers."
-    },
-    {
-      "category": "christmas",
-      "setup": "How much did Santa pay for his sleigh?",
-      "punchline": "Nothing, it was on the house!"
-    },
-    {
-      "category": "christmas",
-      "setup": "What do you call a broke Santa Claus?",
-      "punchline": "Saint-nickel-less."
-    },
-    {
-      "category": "christmas",
-      "setup": "What goes Oh, Oh, Oh?",
-      "punchline": "Santa walking backward!"
-    },
-    {
-      "category": "christmas",
-      "setup": "What do you get if you cross Santa with a duck?",
-      "punchline": "A Christmas quacker."
-    },
-    {
-      "category": "christmas",
-      "setup": "What's Santa's favorite fruit?",
-      "punchline": "(Sugar)plums."
-    },
-    {
-      "category": "christmas",
-      "setup": "Who's Santa's favorite singer?",
-      "punchline": "Elfish Presley."
-    },
-    {
-      "category": "christmas",
-      "setup": "What's as big as a Christmas tree but is lighter than a feather?",
-      "punchline": "Its shadow."
-    },
-    {
-      "category": "christmas",
-      "setup": "What did the Christmas tree do after its bank closed?",
-      "punchline": "It started his own branch."
-    },
-    {
-      "category": "christmas",
-      "setup": "How do Christmas trees get their email?",
-      "punchline": "They log-on."
-    },
-    {
-      "category": "christmas",
-      "setup": "Why did the Christmas tree go to the dentist?",
-      "punchline": "It needed a root canal!"
-    },
-    {
-      "category": "christmas",
-      "setup": "What is a Christmas tree's favorite candy?",
-      "punchline": "Orna-mints!"
-    },
-    {
-      "category": "christmas",
-      "setup": "Why are Christmas trees so fond of the past?",
-      "punchline": "Because the present's beneath them."
-    },
-    {
-      "category": "christmas",
-      "setup": "What do you call cutting down a Christmas tree?",
-      "punchline": "Christmas chopping!"
-    },
-    {
-      "category": "christmas",
-      "setup": "Why are Christmas trees so bad at knitting?",
-      "punchline": "They have too many needles."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris does not use spell check.",
-      "punchline": "If he misspells a word, Oxford changes the spelling."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Time waits for no man.",
-      "punchline": "Unless that man is Chuck Norris."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris' tears cure cancer.",
-      "punchline": "Too bad he has never cried."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Some kids pee their name in the snow.",
-      "punchline": "Chuck Norris can pee his name into concrete."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Once a cobra bit Chuck Norris' leg.",
-      "punchline": "After five days of excruciating pain, the cobra died."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris once had a heart attack.",
-      "punchline": "His heart lost."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris doesn't wear a watch.",
-      "punchline": "He decides what time it is."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris does not get frostbite.",
-      "punchline": "Chuck Norris bites frost."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Most people have 23 pairs of chromosomes.",
-      "punchline": "Chuck Norris has 72 and they're all lethal."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris once ordered a steak in a restaurant.",
-      "punchline": "The steak did what it was told."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "We live in an expanding universe.",
-      "punchline": "All of it is trying to get away from Chuck Norris."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris had to stop washing his clothes in the ocean.",
-      "punchline": "Too many tsunamis."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris doesn't need to shave.",
-      "punchline": "His beard is scared to grow."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris doesn't cheat death.",
-      "punchline": "He wins fair and square."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris once won an underwater breathing contest.",
-      "punchline": "With a fish."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "The Great Wall of China was originally created to keep Chuck Norris out.",
-      "punchline": "It didn't work."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris threw a grenade and killed 50 people.",
-      "punchline": "Then it exploded."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "There is no chin behind Chuck Norris' beard.",
-      "punchline": "There is only another fist."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris once had a staring contest with a statue.",
-      "punchline": "The statue blinked."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris doesn't need a parachute.",
-      "punchline": "He just tells the ground to stop and it obeys."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris never retreats.",
-      "punchline": "He just attacks in the opposite direction."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris was exposed to Covid-19.",
-      "punchline": "Covid-19 was quarantined for a month."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris has never blinked in his entire life.",
-      "punchline": "Never."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris didn't call the wrong number.",
-      "punchline": "You answered the wrong phone."
-    },
-    {
-      "category": "chuck_norris",
-      "setup": "Chuck Norris skipped school one day.",
-      "punchline": "That day has since been known as Sunday."
-    },
-    {
-      "category": "food",
-      "setup": "What do you call a dinosaur that eats its veggies?",
-      "punchline": "A broccoli-saurus"
-    },
-    {
-      "category": "food",
-      "setup": "What's the strongest vegetable?",
-      "punchline": "Muscle sprouts!"
-    },
-    {
-      "category": "food",
-      "setup": "What is a taxi driver's favorite kind of vegetable?",
-      "punchline": "A cab-bage!"
-    },
-    {
-      "category": "food",
-      "setup": "What kind of apple isn't an apple?",
-      "punchline": "A pineapple!"
-    },
-    {
-      "category": "food",
-      "setup": "What did the apple skin say to the apple?",
-      "punchline": "I've got you covered!"
-    },
-    {
-      "category": "food",
-      "setup": "Why did the people dance to the vegetable band?",
-      "punchline": "Because it had a good beet!"
-    },
-    {
-      "category": "food",
-      "setup": "What do you call someone who raps about vegetables?",
-      "punchline": "A beet boxer!"
-    },
-    {
-      "category": "food",
-      "setup": "How do you get a mouse to smile?",
-      "punchline": "Say, cheese!"
-    },
-    {
-      "category": "food",
-      "setup": "What's a chicken's favorite kind of vegetable?",
-      "punchline": "An eggplant!"
-    },
-    {
-      "category": "food",
-      "setup": "What did the baby corn call his dad?",
-      "punchline": "Pop-corn!"
-    },
-    {
-      "category": "food",
-      "setup": "What kind of key doesn't open a lock?",
-      "punchline": "A key-wi!"
-    },
-    {
-      "category": "food",
-      "setup": "Why don't eggs tell jokes?",
-      "punchline": "They'd crack each other up!"
-    },
-    {
-      "category": "food",
-      "setup": "What vegetables do librarians like?",
-      "punchline": "Quiet peas!"
-    },
-    {
-      "category": "food",
-      "setup": "Why did the chef have to stop cooking?",
-      "punchline": "He ran out of thyme!"
-    },
-    {
-      "category": "food",
-      "setup": "What's a baker's favorite joke?",
-      "punchline": "A cinnamon pun!"
-    },
-    {
-      "category": "food",
-      "setup": "Why did the tofu cross the road?",
-      "punchline": "To prove he wasn't chicken!"
-    },
-    {
-      "category": "food",
-      "setup": "When do you go at red and stop at green?",
-      "punchline": "When you're eating a watermelon!"
-    },
-    {
-      "category": "food",
-      "setup": "What do you call a sleeping pizza?",
-      "punchline": "A piZZZZZZZZZZZZZa!"
-    },
-    {
-      "category": "food",
-      "setup": "Why does bread like warmer weather?",
-      "punchline": "It gets toasty!"
-    },
-    {
-      "category": "food",
-      "setup": "What's a pumpkin's favorite game?",
-      "punchline": "Squash!"
-    },
-    {
-      "category": "food",
-      "setup": "What do you call a fake noodle?",
-      "punchline": "An im-PASTA!"
-    },
-    {
-      "category": "food",
-      "setup": "How does rice say goodbye?",
-      "punchline": "I hope to see you a-grain."
-    },
-    {
-      "category": "food",
-      "setup": "What's a penguin's favorite salad ingredient?",
-      "punchline": "Iceburg lettuce!"
-    },
-    {
-      "category": "food",
-      "setup": "What did the salad say to the dressing?",
-      "punchline": "Lettuce be friends!"
-    },
-    {
-      "category": "food",
-      "setup": "Which type of key won't open a door?",
-      "punchline": "A tur-key!"
-    },
-    {
-      "category": "one_liner",
-      "setup": "My wife told me to stop impersonating a flamingo.",
-      "punchline": "I had to put my foot down."
-    },
-    {
-      "category": "one_liner",
-      "setup": "I heard there were a bunch of break-ins over at the car park.",
-      "punchline": "That is wrong on so many levels."
-    },
-    {
-      "category": "one_liner",
-      "setup": "I can't believe I got fired from the calendar factory.",
-      "punchline": "All I did was take a day off."
-    },
-    {
-      "category": "one_liner",
-      "setup": "My wife just found out I replaced our bed with a trampoline. ",
-      "punchline": "She hit the ceiling!"
-    },
-    {
-      "category": "one_liner",
-      "setup": "I used to think I was indecisive.",
-      "punchline": "But now I'm not so sure."
-    },
-    {
-      "category": "one_liner",
-      "setup": "My therapist says I have a preoccupation for revenge.",
-      "punchline": "We'll see about that."
-    },
-    {
-      "category": "one_liner",
-      "setup": "A told my girlfriend she drew her eyebrows too high.",
-      "punchline": "She seemed surprised."
-    },
-    {
-      "category": "one_liner",
-      "setup": "Always borrow money from a pessimist.",
-      "punchline": "They'll never expect it back."
-    },
-    {
-      "category": "one_liner",
-      "setup": "The problem isn't that obesity runs in your family.",
-      "punchline": "It's that no one runs in your family."
-    },
-    {
-      "category": "one_liner",
-      "setup": "I'm reading a book about anti-gravity.",
-      "punchline": "It's impossible to put down."
-    },
-    {
-      "category": "one_liner",
-      "setup": "The future, the present, and the past walk into a bar.",
-      "punchline": "Things got a little tense."
-    },
-    {
-      "category": "one_liner",
-      "setup": "I just got kicked out of a secret cooking society.",
-      "punchline": "I spilled the beans."
-    },
-    {
-      "category": "one_liner",
-      "setup": "What's a frog's favorite type of shoes?",
-      "punchline": "Open toad sandals."
-    },
-    {
-      "category": "one_liner",
-      "setup": "Two wifi engineers got married.",
-      "punchline": "The reception was fantastic."
-    },
-    {
-      "category": "one_liner",
-      "setup": "Just got fired from my job as a set designer.",
-      "punchline": "I left without making a scene."
-    },
-    {
-      "category": "one_liner",
-      "setup": "What's the difference between ignorance and apathy?",
-      "punchline": "I don't know and I don't care."
-    },
-    {
-      "category": "one_liner",
-      "setup": "One of the cows didn't produce milk today.",
-      "punchline": "It was an udder failure."
-    },
-    {
-      "category": "one_liner",
-      "setup": "A book fell on my head the other day.",
-      "punchline": "I only have my shelf to blame though."
-    },
-    {
-      "category": "one_liner",
-      "setup": "I buy all my guns from a guy called T-Rex.",
-      "punchline": "He's a small arms dealer."
-    },
-    {
-      "category": "one_liner",
-      "setup": "My friend's bakery burned down last night.",
-      "punchline": "Now his business is toast."
-    },
-    {
-      "category": "one_liner",
-      "setup": "I bought the world's worst thesaurus yesterday.",
-      "punchline": "Not only is it terrible, it's also terrible."
-    },
-    {
-      "category": "one_liner",
-      "setup": "Did you hear about the guy whose whole left side got amputated?",
-      "punchline": "He's all right now."
-    },
-    {
-      "category": "one_liner",
-      "setup": "Will glass coffins be a success?",
-      "punchline": "Remains to be seen."
-    },
-    {
-      "category": "one_liner",
-      "setup": "I put my grandma on speed dial the other day.",
-      "punchline": "I call it insta-gram."
-    },
-    {
-      "category": "one_liner",
-      "setup": "I threw a boomerang a couple years ago.",
-      "punchline": "I know live in constant fear."
-    },
-    {
-      "category": "political",
-      "setup": "What's the difference between baseball and politics?",
-      "punchline": "In baseball you're out if you're caught stealing."
-    },
-    {
-      "category": "political",
-      "setup": "Why are there no K-Marts in Syria?",
-      "punchline": "Cause there are targets everywhere!"
-    },
-    {
-      "category": "political",
-      "setup": "What do you call a lawyer who has gone bad?",
-      "punchline": "Senator."
-    },
-    {
-      "category": "political",
-      "setup": "What did Gandhi say to the British, after they asked him to move?",
-      "punchline": "Nah, mastay."
-    },
-    {
-      "category": "political",
-      "setup": "A politician will find an excuse to get out of anything.",
-      "punchline": "Except office."
-    },
-    {
-      "category": "political",
-      "setup": "What's the difference between 9/11 and a cow?",
-      "punchline": "You can't milk a cow for over 10 years."
-    },
-    {
-      "category": "political",
-      "setup": "Why does the queen carry a scepter?",
-      "punchline": "Because everyone works 'cept her."
-    },
-    {
-      "category": "political",
-      "setup": "What did the corrupt congressman order on Election Day?",
-      "punchline": "Stuffed ballots."
-    },
-    {
-      "category": "political",
-      "setup": "I don't approve of political jokes.",
-      "punchline": "I've seen too many of them get elected."
-    },
-    {
-      "category": "political",
-      "setup": "Best definition of dedundancy.",
-      "punchline": "A Politician with an airbag in his car."
-    },
-    {
-      "category": "political",
-      "setup": "To err is human.",
-      "punchline": "To blame someone else is politics."
-    },
-    {
-      "category": "political",
-      "setup": "What sport did the politician want to learn?",
-      "punchline": "How to Ballot Box."
-    },
-    {
-      "category": "political",
-      "setup": "I don't blame Congress.",
-      "punchline": "If I had $600 billion, I'd be irresponsible too."
-    },
-    {
-      "category": "political",
-      "setup": "What's the difference between the government and the Mafia?",
-      "punchline": "One of them is organized."
-    },
-    {
-      "category": "political",
-      "setup": "What did the roller-blader wear to go voting?",
-      "punchline": "In-line skates."
-    },
-    {
-      "category": "political",
-      "setup": "What kind of limb did the candidate for president go on?",
-      "punchline": "An executive branch."
-    },
-    {
-      "category": "political",
-      "setup": "What grows longer every election year?",
-      "punchline": "The branches of government."
-    },
-    {
-      "category": "political",
-      "setup": "Where did the politician take his wife for something sweet?",
-      "punchline": "On a candydate."
-    },
-    {
-      "category": "political",
-      "setup": "Why did the county legislator fall asleep?",
-      "punchline": "He was one of the Bored Members."
-    },
-    {
-      "category": "political",
-      "setup": "What does it cost to vote?",
-      "punchline": "You'll have to look at the Bill of Rights to find out."
-    },
-    {
-      "category": "political",
-      "setup": "Why did the boy vote for the bicycle?",
-      "punchline": "He liked how he spoke."
-    },
-    {
-      "category": "political",
-      "setup": "Why couldn't the spaghetti vote in this district?",
-      "punchline": "He was an impasta."
-    },
-    {
-      "category": "political",
-      "setup": "What do you call a snake that works for the government?",
-      "punchline": "A civil serpent."
-    },
-    {
-      "category": "political",
-      "setup": "Why is Putin's government like Microsoft Edge?",
-      "punchline": "You can't uninstall either."
-    },
-    {
-      "category": "political",
-      "setup": "What do you call it when a government official assassinates a citizen?",
-      "punchline": "A Car Crash."
-    },
-    {
-      "category": "programming",
-      "setup": "Why are Assembly programmers always soaking wet?",
-      "punchline": "They work below C-level."
-    },
-    {
-      "category": "programming",
-      "setup": "Why do Java programmers have to wear glasses?",
-      "punchline": "Because they don't C#."
-    },
-    {
-      "category": "programming",
-      "setup": "What's the object-oriented way to become wealthy?",
-      "punchline": "Inheritance."
-    },
-    {
-      "category": "programming",
-      "setup": "Why did the programmer quit his job?",
-      "punchline": "Because he didn't get arrays."
-    },
-    {
-      "category": "programming",
-      "setup": "UNIX is user friendly.",
-      "punchline": "It's just very particular about who its friends are."
-    },
-    {
-      "category": "programming",
-      "setup": "I don't see women as objects.",
-      "punchline": "I consider each to be in a class of her own."
-    },
-    {
-      "category": "programming",
-      "setup": "What's the best thing thing about UDP jokes?",
-      "punchline": "I don't care if you get them."
-    },
-    {
-      "category": "programming",
-      "setup": "What's the best part about TCP jokes?",
-      "punchline": "I get to keep telling them until you get them."
-    },
-    {
-      "category": "programming",
-      "setup": "What is a programmer?",
-      "punchline": "A machine that turns coffee into code."
-    },
-    {
-      "category": "programming",
-      "setup": "Software can be fast, reliable and cheap.",
-      "punchline": "Choose any two."
-    },
-    {
-      "category": "programming",
-      "setup": "There are 10 kinds of people in the world.",
-      "punchline": "Those who understand binary and those who don't."
-    },
-    {
-      "category": "programming",
-      "setup": "What did the Java Code say to the C code?",
-      "punchline": "You've got no class."
-    },
-    {
-      "category": "programming",
-      "setup": "Why do programmers prefer dark mode?",
-      "punchline": "Because light attracts bugs."
-    },
-    {
-      "category": "programming",
-      "setup": "What is the most used language in programming?",
-      "punchline": "Profanity."
-    },
-    {
-      "category": "programming",
-      "setup": "What do you call a programmer who vomits at IHOP?",
-      "punchline": "A stack overflow."
-    },
-    {
-      "category": "programming",
-      "setup": "A user interface is like a joke.",
-      "punchline": "If you have to explain it, it means it's not good."
-    },
-    {
-      "category": "programming",
-      "setup": "What did the boolean say to the integer?",
-      "punchline": "You can't handle the truth."
-    },
-    {
-      "category": "programming",
-      "setup": "How many programmers does it take to change a light bulb?",
-      "punchline": "None. It's a hardware problem."
-    },
-    {
-      "category": "programming",
-      "setup": "What is hardware?",
-      "punchline": "It's the part of a computer that can kick you."
-    },
-    {
-      "category": "programming",
-      "setup": "What is debugging?",
-      "punchline": "Removing the needles from the haystack."
-    },
-    {
-      "category": "programming",
-      "setup": "Why did the software coder enjoy pressing the F5 key?",
-      "punchline": "It was refreshing."
-    },
-    {
-      "category": "programming",
-      "setup": "What did the router say to the doctor?",
-      "punchline": "It hurts when IP."
-    },
-    {
-      "category": "programming",
-      "setup": "Why do programmers always mix up Halloween and Christmas?",
-      "punchline": "Because Oct 31 = Dec 25."
-    },
-    {
-      "category": "programming",
-      "setup": "Why did the boy get fired from his keyboard factory job?",
-      "punchline": "Because he was not putting enough shifts."
-    },
-    {
-      "category": "programming",
-      "setup": "What made the JavaScript developer so sad?",
-      "punchline": "He did not Node how to Express himself."
-    },
-    {
-      "category": "relationship",
-      "setup": "Why do wives use twice as many words as their husbands?",
-      "punchline": "Because they always have to repeat themselves."
-    },
-    {
-      "category": "relationship",
-      "setup": "Losing a significant other can be hard.",
-      "punchline": "In some cases, it's impossible."
-    },
-    {
-      "category": "relationship",
-      "setup": "Have you seen the new divorced Barbie?",
-      "punchline": "She comes with all of Ken's stuff."
-    },
-    {
-      "category": "relationship",
-      "setup": "I had a one night stand last year that went horribly wrong. ",
-      "punchline": "We're married now."
-    },
-    {
-      "category": "relationship",
-      "setup": "I never knew true happiness until I got married.",
-      "punchline": "Then, it was too late."
-    },
-    {
-      "category": "relationship",
-      "setup": "How to lose a fight with your wife?",
-      "punchline": "Argue."
-    },
-    {
-      "category": "relationship",
-      "setup": "A man is incomplete until he's married.",
-      "punchline": "Then he's finished."
-    },
-    {
-      "category": "relationship",
-      "setup": "I know of no one who is happily married.",
-      "punchline": "Except my husband."
-    },
-    {
-      "category": "relationship",
-      "setup": "My wife and I took out life insurance policies on each other.",
-      "punchline": "So, now it's just a waiting game."
-    },
-    {
-      "category": "relationship",
-      "setup": "What kind of ship has two mates but no captain?",
-      "punchline": "A relationship."
-    },
-    {
-      "category": "relationship",
-      "setup": "My girlfriend says I don't respect her privacy.",
-      "punchline": "At least that's what she wrote in her diary."
-    },
-    {
-      "category": "relationship",
-      "setup": "Once you're married, people stop asking about your sex life.",
-      "punchline": "They know you don't have one."
-    },
-    {
-      "category": "relationship",
-      "setup": "What do you call a woman who knows where her husband is every night?",
-      "punchline": "A widow."
-    },
-    {
-      "category": "relationship",
-      "setup": "I tried to remarry my ex.",
-      "punchline": "She figured out I was only after my money."
-    },
-    {
-      "category": "relationship",
-      "setup": "My boyfriend left me for being too old fashioned. ",
-      "punchline": "It's a shame.I thought we had great alchemy."
-    },
-    {
-      "category": "relationship",
-      "setup": "My husband and I had a blissful first 25 years.",
-      "punchline": "And then we met and got married."
-    },
-    {
-      "category": "relationship",
-      "setup": "I recently ended a long-term relationship.",
-      "punchline": "It's OK, though It wasn't mine."
-    },
-    {
-      "category": "relationship",
-      "setup": "People always ask me why I'm single.",
-      "punchline": "I'm single by choice, just not my choice."
-    },
-    {
-      "category": "relationship",
-      "setup": "There are two times men don't understand women.",
-      "punchline": "Before and after marriage."
-    },
-    {
-      "category": "relationship",
-      "setup": "I love a man with confidence. ",
-      "punchline": "Without that, what's left to destroy?"
-    },
-    {
-      "category": "relationship",
-      "setup": "How many divorced men does it take to change a light bulb?",
-      "punchline": "None because they never get the house."
-    },
-    {
-      "category": "relationship",
-      "setup": "How can you tell if a woman is divorced?",
-      "punchline": "She's bungee jumping for joy."
-    },
-    {
-      "category": "relationship",
-      "setup": "My husband said he needed more space.",
-      "punchline": "I locked him outside."
-    },
-    {
-      "category": "relationship",
-      "setup": "Want to convert your sofa into a sofa bed?",
-      "punchline": "Just forget your anniversary."
-    },
-    {
-      "category": "relationship",
-      "setup": "Why is divorce so expensive?",
-      "punchline": "Because it's worth it."
-    },
-    {
-      "category": "religious",
-      "setup": "How do you make holy water?",
-      "punchline": "You boil the hell out of it."
-    },
-    {
-      "category": "religious",
-      "setup": "What kind of car does Jesus drive?",
-      "punchline": "A Christler."
-    },
-    {
-      "category": "religious",
-      "setup": "Why are atoms Catholic?",
-      "punchline": "Because they have mass."
-    },
-    {
-      "category": "religious",
-      "setup": "How does Moses make his tea?",
-      "punchline": "Hebrews it."
-    },
-    {
-      "category": "religious",
-      "setup": "What's faster than a cheetah?",
-      "punchline": "A Jew with a coupon!"
-    },
-    {
-      "category": "religious",
-      "setup": "What do you call batman skipping church.",
-      "punchline": "Christian Bale."
-    },
-    {
-      "category": "religious",
-      "setup": "What do you call a sleepwalking nun?",
-      "punchline": "A roamin-catholic."
-    },
-    {
-      "category": "religious",
-      "setup": "Seen while passing by a church:",
-      "punchline": "Get in touch with God by knee mail."
-    },
-    {
-      "category": "religious",
-      "setup": "When is medicine first mentioned in the Bible?",
-      "punchline": "When God gave Moses two tablets."
-    },
-    {
-      "category": "religious",
-      "setup": "At what time of day did God create Adam?",
-      "punchline": "Just before Eve."
-    },
-    {
-      "category": "religious",
-      "setup": "Did Eve have a date with Adam?",
-      "punchline": "No, just an apple."
-    },
-    {
-      "category": "religious",
-      "setup": "Who was the fastest runner in the race?",
-      "punchline": "Adam, as he was first in the human race."
-    },
-    {
-      "category": "religious",
-      "setup": "I went running with my Bible.",
-      "punchline": "Now my Psalms are sweaty."
-    },
-    {
-      "category": "religious",
-      "setup": "When was meat first mentioned in the Bible?",
-      "punchline": "When Noah took ham into the ark."
-    },
-    {
-      "category": "religious",
-      "setup": "How do we know Peter was a rich fisherman?",
-      "punchline": "By his net income."
-    },
-    {
-      "category": "religious",
-      "setup": "What's a missionary's favorite type of car?",
-      "punchline": "A convertible."
-    },
-    {
-      "category": "religious",
-      "setup": "What does God call his nose?",
-      "punchline": "God knows."
-    },
-    {
-      "category": "religious",
-      "setup": "Why did God create man before woman?",
-      "punchline": "Because He didn't want any advice on how to do it."
-    },
-    {
-      "category": "religious",
-      "setup": "What's a miracle that can be done by a complainer?",
-      "punchline": "Turning anything into whine."
-    },
-    {
-      "category": "religious",
-      "setup": "Why did Moses cross the Red Sea?",
-      "punchline": "To get to the other side."
-    },
-    {
-      "category": "religious",
-      "setup": "The thief that stole my diary and my Bible died today.",
-      "punchline": "My thoughts and prayers are with his family."
-    },
-    {
-      "category": "religious",
-      "setup": "Why did the hawk sit on the church steeple?",
-      "punchline": "Because it was a bird of pray."
-    },
-    {
-      "category": "religious",
-      "setup": "In the Bible, Jesus turned water into wine.",
-      "punchline": "But then Chuck Norris turned that wine into beer."
-    },
-    {
-      "category": "religious",
-      "setup": "What did Adam say on the day before Christmas?",
-      "punchline": "It's Christmas, Eve!"
-    },
-    {
-      "category": "religious",
-      "setup": "How long did Cain hate his brother?",
-      "punchline": "As long as he was Abel."
-    },
-    {
-      "category": "school",
-      "setup": "Name the flying mammal in the kindergarten class.",
-      "punchline": "AlphaBAT."
-    },
-    {
-      "category": "school",
-      "setup": "What's so fresh in the chemistry class?",
-      "punchline": "The experiMINTS."
-    },
-    {
-      "category": "school",
-      "setup": "Why did the student throw her watch out of the school window?",
-      "punchline": "She wanted to see time fly."
-    },
-    {
-      "category": "school",
-      "setup": "Why do magicians score well in exams?",
-      "punchline": "Because they can handle tricky questions."
-    },
-    {
-      "category": "school",
-      "setup": "Why does the math class make students sad?",
-      "punchline": "Because it is full of problems."
-    },
-    {
-      "category": "school",
-      "setup": "Why does the music teacher need a ladder in the school?",
-      "punchline": "To reach higher notes."
-    },
-    {
-      "category": "school",
-      "setup": "How do bees go to school?",
-      "punchline": "By school buzz."
-    },
-    {
-      "category": "school",
-      "setup": "Which is the tallest school building?",
-      "punchline": "The library'because it has many STORIES."
-    },
-    {
-      "category": "school",
-      "setup": "Why is six afraid of seven?",
-      "punchline": "Because seven ATE nine."
-    },
-    {
-      "category": "school",
-      "setup": "What is a snake's favorite subject?",
-      "punchline": "HISStory."
-    },
-    {
-      "category": "school",
-      "setup": "Who is the leader of the school supplies?",
-      "punchline": "The ruler."
-    },
-    {
-      "category": "school",
-      "setup": "What is a boy in a class with a dictionary in his pants called?",
-      "punchline": "Smartie pants."
-    },
-    {
-      "category": "school",
-      "setup": "What's the best place to grow flowers in a school.",
-      "punchline": "KinderGARDEN."
-    },
-    {
-      "category": "school",
-      "setup": "Which school do the birds go to?",
-      "punchline": "High school."
-    },
-    {
-      "category": "school",
-      "setup": "Which is the shortest month of the year?",
-      "punchline": "May'Because it has only 3 letters."
-    },
-    {
-      "category": "school",
-      "setup": "Why does a dog do so well in school?",
-      "punchline": "Because it's the teacher's pet."
-    },
-    {
-      "category": "school",
-      "setup": "What did the paper say to the pen?",
-      "punchline": "You have a good point."
-    },
-    {
-      "category": "school",
-      "setup": "What is black when it's clean and white when it's dirty?",
-      "punchline": "The blackboard."
-    },
-    {
-      "category": "school",
-      "setup": "Why are fish considered the smartest?",
-      "punchline": "Because they live in schools."
-    },
-    {
-      "category": "school",
-      "setup": "Why do we measure a snake in inches?",
-      "punchline": "Because it does not have feet."
-    },
-    {
-      "category": "school",
-      "setup": "What's the calculator's favorite statement?",
-      "punchline": "You can count on me."
-    },
-    {
-      "category": "school",
-      "setup": "Which school do the surfers go to?",
-      "punchline": "The Boarding school."
-    },
-    {
-      "category": "school",
-      "setup": "A room that a student can never enter.",
-      "punchline": "A mushROOM."
-    },
-    {
-      "category": "school",
-      "setup": "Why was the echo detained at school?",
-      "punchline": "Because it replied every single time."
-    },
-    {
-      "category": "school",
-      "setup": "A butterfly's favorite subject.",
-      "punchline": "MOTHematics."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama's so poor,",
-      "punchline": "the ducks throw bread at her."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama's cooking is so nasty,",
-      "punchline": "the house flies got together to fix the hole in the window screen."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama's so depressing,",
-      "punchline": "blues singers come to visit her when they've got writer's block."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama's so short,",
-      "punchline": "you can see her feet on her driver's license."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama is so old,she walked into an antique store, ",
-      "punchline": "and they didn't let her leave."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama's so classless,",
-      "punchline": "she's a Marxist utopia."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo momma is so poor,",
-      "punchline": "she chases the garbage truck with a grocery list."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo momma's armpits are so hairy,",
-      "punchline": "it looks like she's got Buckwheat in a headlock."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama's so lazy,",
-      "punchline": "she has a stay-at-home job and still is late to work."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo momma so old,",
-      "punchline": "her Social Security number is one."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama is so mean,",
-      "punchline": "that Taylor Swift wrote a song about her."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo momma so short,",
-      "punchline": "she went to see Santa and he told her to get back to work."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama's so nasty,",
-      "punchline": "they used to call them \"jumpolines\" 'til she bounced on one."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama is so strict,",
-      "punchline": "she enforced a curfew for the entire neighborhood."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo momma so old,",
-      "punchline": "she knew Burger King when he was a prince."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama is so nasty,",
-      "punchline": "she went swimming and made the Dead Sea."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama's so poor,",
-      "punchline": "Nigerian princes wire her money."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo momma so short,",
-      "punchline": "she has to slam dunk her bus fare."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama's glasses are so thick when she looks at a map,",
-      "punchline": "she can see people waving."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo momma so old,",
-      "punchline": "she was a waitress at the Last Supper."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama's house is so dirty,",
-      "punchline": "she has to wipe her feet before she goes outside."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama is so mean,",
-      "punchline": "even Hello Kitty said goodbye."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama is so nice,",
-      "punchline": "she'd give me the hair off her back."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo mama's lips are so big,",
-      "punchline": "when she smiles she gets Chapstick on her ears."
-    },
-    {
-      "category": "yo_momma",
-      "setup": "Yo momma is so lazy,",
-      "punchline": "she stuck her nose out the window and let the wind blow it."
-    }
-   ]
+  {
+    "category": "animal",
+    "setup": "Why are teddy bears never hungry?",
+    "punchline": "They are always stuffed!"
+  },
+  {
+    "category": "animal",
+    "setup": "What did the buffalo say to his son when he left for college?",
+    "punchline": "Bison!"
+  },
+  {
+    "category": "animal",
+    "setup": "What steps do you take if a tiger is running toward you?",
+    "punchline": "Big ones!"
+  },
+  {
+    "category": "animal",
+    "setup": "What sound do porcupines make when they kiss?",
+    "punchline": "Ouch!"
+  },
+  {
+    "category": "animal",
+    "setup": "Where do polar bears vote?",
+    "punchline": "The North Poll."
+  },
+  {
+    "category": "animal",
+    "setup": "Where do orcas hear music?",
+    "punchline": "Orca-stras!"
+  },
+  {
+    "category": "animal",
+    "setup": "What fish only swims at night?",
+    "punchline": "A starfish!"
+  },
+  {
+    "category": "animal",
+    "setup": "How long do chickens work?",
+    "punchline": "Around the cluck!"
+  },
+  {
+    "category": "animal",
+    "setup": "Why do cows never have any money?",
+    "punchline": "Because the farmers milk them dry!"
+  },
+  {
+    "category": "animal",
+    "setup": "Where did the sheep go on vacation?",
+    "punchline": "The Baaaahamas."
+  },
+  {
+    "category": "animal",
+    "setup": "What do you call an alligator in a vest?",
+    "punchline": "An investigator!"
+  },
+  {
+    "category": "animal",
+    "setup": "Why did the snake cross the road?",
+    "punchline": "To get to the other ssssssside!"
+  },
+  {
+    "category": "animal",
+    "setup": "What do frogs order when they go to a restaurant?",
+    "punchline": "French flies."
+  },
+  {
+    "category": "animal",
+    "setup": "What does the cat say after making a joke?",
+    "punchline": "Just kitten!"
+  },
+  {
+    "category": "animal",
+    "setup": "What do you call a dog magician?",
+    "punchline": "A Labracadabrador!"
+  },
+  {
+    "category": "animal",
+    "setup": "What�s it called when all the treats are gone?",
+    "punchline": "A cat-astrophe."
+  },
+  {
+    "category": "animal",
+    "setup": "Why did the cats ask for a drum set?",
+    "punchline": "They wanted to make some mewsic!"
+  },
+  {
+    "category": "animal",
+    "setup": "Why did the fly never land on the computer?",
+    "punchline": "He was afraid of the web."
+  },
+  {
+    "category": "animal",
+    "setup": "Why�s a bee's hair always sticky?",
+    "punchline": "Because it uses a honeycomb!"
+  },
+  {
+    "category": "animal",
+    "setup": "Why do birds fly south in the winter? ",
+    "punchline": "Because it's too far to walk!"
+  },
+  {
+    "category": "animal",
+    "setup": "What do ducks watch on TV? ",
+    "punchline": "Duck-umentaries!"
+  },
+  {
+    "category": "animal",
+    "setup": "What kind of bird works at a construction site?",
+    "punchline": "The crane!"
+  },
+  {
+    "category": "animal",
+    "setup": "What do you call a penguin in the desert?",
+    "punchline": "Lost."
+  },
+  {
+    "category": "animal",
+    "setup": "What do rabbits eat for breakfast?",
+    "punchline": "IHOP."
+  },
+  {
+    "category": "animal",
+    "setup": "Why do cows go to New York?",
+    "punchline": "To see the moo-sicals!"
+  },
+  {
+    "category": "blondes",
+    "setup": "Why can't a blonde dial 911?",
+    "punchline": "She can't find the eleven."
+  },
+  {
+    "category": "blondes",
+    "setup": "Why did the blonde put her iPad in a blender?",
+    "punchline": "Because she wanted to make apple juice."
+  },
+  {
+    "category": "blondes",
+    "setup": "How did the blonde try to kill the bird?",
+    "punchline": "She threw it off a cliff."
+  },
+  {
+    "category": "blondes",
+    "setup": "How did the blonde die drinking milk?",
+    "punchline": "The cow fell on her."
+  },
+  {
+    "category": "blondes",
+    "setup": "What do you call a blonde with a brain?",
+    "punchline": "A golden retriever."
+  },
+  {
+    "category": "blondes",
+    "setup": "How do you get a one handed blonde down from a tree? ",
+    "punchline": "Wave at her."
+  },
+  {
+    "category": "blondes",
+    "setup": "What do you do when a blonde throws a hand grenade at you?",
+    "punchline": "Pull the pin and throw it back."
+  },
+  {
+    "category": "blondes",
+    "setup": "Why did the blonde stare at the orange juice bottle for 2 hours?",
+    "punchline": "Because it said 'concentrate'."
+  },
+  {
+    "category": "blondes",
+    "setup": "What is five miles long and has an IQ of 40?",
+    "punchline": "A parade of blonde's."
+  },
+  {
+    "category": "blondes",
+    "setup": "What do you give a blonde who has everything?",
+    "punchline": "Penicillin."
+  },
+  {
+    "category": "blondes",
+    "setup": "What does a blonde do when her laptop computer freezes?",
+    "punchline": "She sticks it in the microwave."
+  },
+  {
+    "category": "blondes",
+    "setup": "What do you call a blonde that dyes her hair red?",
+    "punchline": "Artificial intelligence."
+  },
+  {
+    "category": "blondes",
+    "setup": "What did the blonde say when she found out she was pregnant?",
+    "punchline": "I wonder if it�s mine."
+  },
+  {
+    "category": "blondes",
+    "setup": "How do you confuse a blonde?",
+    "punchline": "You don�t. They�re born that way."
+  },
+  {
+    "category": "blondes",
+    "setup": "What happens when a blonde gets Alzheimers disease?",
+    "punchline": "Her IQ goes up!"
+  },
+  {
+    "category": "blondes",
+    "setup": "How do you sink a submarine full of blondes?",
+    "punchline": "Knock on the door."
+  },
+  {
+    "category": "blondes",
+    "setup": "How many dumb blonde jokes are there?",
+    "punchline": "None they're all true stories."
+  },
+  {
+    "category": "blondes",
+    "setup": "Why do blondes take the pill?",
+    "punchline": "So they know what day of the week it is."
+  },
+  {
+    "category": "blondes",
+    "setup": "Why did the Blonde go to Taco Bell?",
+    "punchline": "To pay her phone bill."
+  },
+  {
+    "category": "blondes",
+    "setup": "Why did the Blonde go to the Apple Store?",
+    "punchline": "She wanted a Big Mac meal."
+  },
+  {
+    "category": "blondes",
+    "setup": "What does a blonde say when you blow in their ear?",
+    "punchline": "Thanks for the refill!"
+  },
+  {
+    "category": "blondes",
+    "setup": "How do you drown a blonde?",
+    "punchline": "Tape a mirror to the bottom of a pool."
+  },
+  {
+    "category": "blondes",
+    "setup": "Why did the blonde put lipstick on her forehead?",
+    "punchline": "She was trying to make up her mind."
+  },
+  {
+    "category": "blondes",
+    "setup": "Why did the blonde purchase a brown cow?",
+    "punchline": "So that she could get chocolate milk."
+  },
+  {
+    "category": "blondes",
+    "setup": "Why were there bullet holes in the mirror?",
+    "punchline": "A blonde tried killing herself."
+  },
+  {
+    "category": "christmas",
+    "setup": "How do you know when Santa's around?",
+    "punchline": "You can always sense his presents."
+  },
+  {
+    "category": "christmas",
+    "setup": "What was Santa's favorite subject in school?",
+    "punchline": "Chemistree."
+  },
+  {
+    "category": "christmas",
+    "setup": "What do baby elves learn in Kindergarten at the North Pole?",
+    "punchline": "The elf-abet."
+  },
+  {
+    "category": "christmas",
+    "setup": "Why did the scarecrow get a big Christmas bonus?",
+    "punchline": "Because he was outstanding in his field."
+  },
+  {
+    "category": "christmas",
+    "setup": "What does Santa suffer from if he gets stuck in a chimney?",
+    "punchline": "Claus-trophobia!"
+  },
+  {
+    "category": "christmas",
+    "setup": "What is Santa's dog's name?",
+    "punchline": "Santa Paws!"
+  },
+  {
+    "category": "christmas",
+    "setup": "Where do Santa's elves go swimming?",
+    "punchline": "The North pool."
+  },
+  {
+    "category": "christmas",
+    "setup": "What kind of motorcycle does Santa drive?",
+    "punchline": "A Holly Davidson!"
+  },
+  {
+    "category": "christmas",
+    "setup": "What is Santa�s primary language?",
+    "punchline": "North Polish."
+  },
+  {
+    "category": "christmas",
+    "setup": "Why does Santa go down the chimney?",
+    "punchline": "Because it soots him!"
+  },
+  {
+    "category": "christmas",
+    "setup": "What is Santa's favorite kind of candy?",
+    "punchline": "Jolly ranchers."
+  },
+  {
+    "category": "christmas",
+    "setup": "How much did Santa pay for his sleigh?",
+    "punchline": "Nothing, it was on the house!"
+  },
+  {
+    "category": "christmas",
+    "setup": "What do you call a broke Santa Claus?",
+    "punchline": "Saint-nickel-less."
+  },
+  {
+    "category": "christmas",
+    "setup": "What goes �Oh, Oh, Oh�?",
+    "punchline": "Santa walking backward!"
+  },
+  {
+    "category": "christmas",
+    "setup": "What do you get if you cross Santa with a duck?",
+    "punchline": "A Christmas quacker."
+  },
+  {
+    "category": "christmas",
+    "setup": "What�s Santa�s favorite fruit?",
+    "punchline": "(Sugar)plums."
+  },
+  {
+    "category": "christmas",
+    "setup": "Who�s Santa�s favorite singer?",
+    "punchline": "Elfish Presley."
+  },
+  {
+    "category": "christmas",
+    "setup": "What�s as big as a Christmas tree but is lighter than a feather?",
+    "punchline": "Its shadow."
+  },
+  {
+    "category": "christmas",
+    "setup": "What did the Christmas tree do after its bank closed?",
+    "punchline": "It started his own branch."
+  },
+  {
+    "category": "christmas",
+    "setup": "How do Christmas trees get their email?",
+    "punchline": "They log-on."
+  },
+  {
+    "category": "christmas",
+    "setup": "Why did the Christmas tree go to the dentist?",
+    "punchline": "It needed a root canal!"
+  },
+  {
+    "category": "christmas",
+    "setup": "What is a Christmas tree's favorite candy?",
+    "punchline": "Orna-mints!"
+  },
+  {
+    "category": "christmas",
+    "setup": "Why are Christmas trees so fond of the past?",
+    "punchline": "Because the present's beneath them."
+  },
+  {
+    "category": "christmas",
+    "setup": "What do you call cutting down a Christmas tree?",
+    "punchline": "Christmas chopping!"
+  },
+  {
+    "category": "christmas",
+    "setup": "Why are Christmas trees so bad at knitting?",
+    "punchline": "They have too many needles."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris does not use spell check.",
+    "punchline": "If he misspells a word, Oxford changes the spelling."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Time waits for no man.",
+    "punchline": "Unless that man is Chuck Norris."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris' tears cure cancer.",
+    "punchline": "Too bad he has never cried."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Some kids pee their name in the snow.",
+    "punchline": "Chuck Norris can pee his name into concrete."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Once a cobra bit Chuck Norris' leg.",
+    "punchline": "After five days of excruciating pain, the cobra died."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris once had a heart attack.",
+    "punchline": "His heart lost."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris doesn't wear a watch.",
+    "punchline": "He decides what time it is."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris does not get frostbite.",
+    "punchline": "Chuck Norris bites frost."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Most people have 23 pairs of chromosomes.",
+    "punchline": "Chuck Norris has 72 and they're all lethal."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris once ordered a steak in a restaurant.",
+    "punchline": "The steak did what it was told."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "We live in an expanding universe.",
+    "punchline": "All of it is trying to get away from Chuck Norris."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris had to stop washing his clothes in the ocean.",
+    "punchline": "Too many tsunamis."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris doesn't need to shave.",
+    "punchline": "His beard is scared to grow."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris doesn�t cheat death.",
+    "punchline": "He wins fair and square."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris once won an underwater breathing contest.",
+    "punchline": "With a fish."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "The Great Wall of China was originally created to keep Chuck Norris out.",
+    "punchline": "It didn�t work."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris threw a grenade and killed 50 people.",
+    "punchline": "Then it exploded."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "There is no chin behind Chuck Norris� beard.",
+    "punchline": "There is only another fist."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris once had a staring contest with a statue.",
+    "punchline": "The statue blinked."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris doesn�t need a parachute.",
+    "punchline": "He just tells the ground to stop and it obeys."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris never retreats.",
+    "punchline": "He just attacks in the opposite direction."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris was exposed to Covid-19.",
+    "punchline": "Covid-19 was quarantined for a month."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris has never blinked in his entire life.",
+    "punchline": "Never."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris didn�t call the wrong number.",
+    "punchline": "You answered the wrong phone."
+  },
+  {
+    "category": "chuck_norris",
+    "setup": "Chuck Norris skipped school one day.",
+    "punchline": "That day has since been known as Sunday."
+  },
+  {
+    "category": "food",
+    "setup": "What do you call a dinosaur that eats its veggies?",
+    "punchline": "A broccoli-saurus"
+  },
+  {
+    "category": "food",
+    "setup": "What�s the strongest vegetable?",
+    "punchline": "Muscle sprouts!"
+  },
+  {
+    "category": "food",
+    "setup": "What is a taxi driver�s favorite kind of vegetable?",
+    "punchline": "A cab-bage!"
+  },
+  {
+    "category": "food",
+    "setup": "What kind of apple isn�t an apple?",
+    "punchline": "A pineapple!"
+  },
+  {
+    "category": "food",
+    "setup": "What did the apple skin say to the apple?",
+    "punchline": "I�ve got you covered!"
+  },
+  {
+    "category": "food",
+    "setup": "Why did the people dance to the vegetable band?",
+    "punchline": "Because it had a good beet!"
+  },
+  {
+    "category": "food",
+    "setup": "What do you call someone who raps about vegetables?",
+    "punchline": "A beet boxer!"
+  },
+  {
+    "category": "food",
+    "setup": "How do you get a mouse to smile?",
+    "punchline": "Say, �cheese!�"
+  },
+  {
+    "category": "food",
+    "setup": "What�s a chicken�s favorite kind of vegetable?",
+    "punchline": "An eggplant!"
+  },
+  {
+    "category": "food",
+    "setup": "What did the baby corn call his dad?",
+    "punchline": "Pop-corn!"
+  },
+  {
+    "category": "food",
+    "setup": "What kind of key doesn�t open a lock?",
+    "punchline": "A key-wi!"
+  },
+  {
+    "category": "food",
+    "setup": "Why don�t eggs tell jokes?",
+    "punchline": "They�d crack each other up!"
+  },
+  {
+    "category": "food",
+    "setup": "What vegetables do librarians like?",
+    "punchline": "Quiet peas!"
+  },
+  {
+    "category": "food",
+    "setup": "Why did the chef have to stop cooking?",
+    "punchline": "He ran out of thyme!"
+  },
+  {
+    "category": "food",
+    "setup": "What�s a baker�s favorite joke?",
+    "punchline": "A cinnamon pun!"
+  },
+  {
+    "category": "food",
+    "setup": "Why did the tofu cross the road?",
+    "punchline": "To prove he wasn�t chicken!"
+  },
+  {
+    "category": "food",
+    "setup": "When do you go at red and stop at green?",
+    "punchline": "When you�re eating a watermelon!"
+  },
+  {
+    "category": "food",
+    "setup": "What do you call a sleeping pizza?",
+    "punchline": "A piZZZZZZZZZZZZZa!"
+  },
+  {
+    "category": "food",
+    "setup": "Why does bread like warmer weather?",
+    "punchline": "It gets toasty!"
+  },
+  {
+    "category": "food",
+    "setup": "What�s a pumpkin�s favorite game?",
+    "punchline": "Squash!"
+  },
+  {
+    "category": "food",
+    "setup": "What do you call a fake noodle?",
+    "punchline": "An im-PASTA!"
+  },
+  {
+    "category": "food",
+    "setup": "How does rice say �goodbye�?",
+    "punchline": "I hope to see you a-grain."
+  },
+  {
+    "category": "food",
+    "setup": "What�s a penguin�s favorite salad ingredient?",
+    "punchline": "Iceburg lettuce!"
+  },
+  {
+    "category": "food",
+    "setup": "What did the salad say to the dressing?",
+    "punchline": "Lettuce be friends!"
+  },
+  {
+    "category": "food",
+    "setup": "Which type of key won�t open a door?",
+    "punchline": "A tur-key!"
+  },
+  {
+    "category": "one_liner",
+    "setup": "My wife told me to stop impersonating a flamingo.",
+    "punchline": "I had to put my foot down."
+  },
+  {
+    "category": "one_liner",
+    "setup": "I heard there were a bunch of break-ins over at the car park.",
+    "punchline": "That is wrong on so many levels."
+  },
+  {
+    "category": "one_liner",
+    "setup": "I can�t believe I got fired from the calendar factory.",
+    "punchline": "All I did was take a day off."
+  },
+  {
+    "category": "one_liner",
+    "setup": "My wife just found out I replaced our bed with a trampoline. ",
+    "punchline": "She hit the ceiling!"
+  },
+  {
+    "category": "one_liner",
+    "setup": "I used to think I was indecisive.",
+    "punchline": "But now I�m not so sure."
+  },
+  {
+    "category": "one_liner",
+    "setup": "My therapist says I have a preoccupation for revenge.",
+    "punchline": "We�ll see about that."
+  },
+  {
+    "category": "one_liner",
+    "setup": "A told my girlfriend she drew her eyebrows too high.",
+    "punchline": "She seemed surprised."
+  },
+  {
+    "category": "one_liner",
+    "setup": "Always borrow money from a pessimist.",
+    "punchline": "They�ll never expect it back."
+  },
+  {
+    "category": "one_liner",
+    "setup": "The problem isn�t that obesity runs in your family.",
+    "punchline": "It�s that no one runs in your family."
+  },
+  {
+    "category": "one_liner",
+    "setup": "I�m reading a book about anti-gravity.",
+    "punchline": "It�s impossible to put down."
+  },
+  {
+    "category": "one_liner",
+    "setup": "The future, the present, and the past walk into a bar.",
+    "punchline": "Things got a little tense."
+  },
+  {
+    "category": "one_liner",
+    "setup": "I just got kicked out of a secret cooking society.",
+    "punchline": "I spilled the beans."
+  },
+  {
+    "category": "one_liner",
+    "setup": "What�s a frog�s favorite type of shoes?",
+    "punchline": "Open toad sandals."
+  },
+  {
+    "category": "one_liner",
+    "setup": "Two wifi engineers got married.",
+    "punchline": "The reception was fantastic."
+  },
+  {
+    "category": "one_liner",
+    "setup": "Just got fired from my job as a set designer.",
+    "punchline": "I left without making a scene."
+  },
+  {
+    "category": "one_liner",
+    "setup": "What�s the difference between ignorance and apathy?",
+    "punchline": "I don�t know and I don�t care."
+  },
+  {
+    "category": "one_liner",
+    "setup": "One of the cows didn�t produce milk today.",
+    "punchline": "It was an udder failure."
+  },
+  {
+    "category": "one_liner",
+    "setup": "A book fell on my head the other day.",
+    "punchline": "I only have my shelf to blame though."
+  },
+  {
+    "category": "one_liner",
+    "setup": "I buy all my guns from a guy called T-Rex.",
+    "punchline": "He�s a small arms dealer."
+  },
+  {
+    "category": "one_liner",
+    "setup": "My friend�s bakery burned down last night.",
+    "punchline": "Now his business is toast."
+  },
+  {
+    "category": "one_liner",
+    "setup": "I bought the world�s worst thesaurus yesterday.",
+    "punchline": "Not only is it terrible, it�s also terrible."
+  },
+  {
+    "category": "one_liner",
+    "setup": "Did you hear about the guy whose whole left side got amputated?",
+    "punchline": "He�s all right now."
+  },
+  {
+    "category": "one_liner",
+    "setup": "Will glass coffins be a success?",
+    "punchline": "Remains to be seen."
+  },
+  {
+    "category": "one_liner",
+    "setup": "I put my grandma on speed dial the other day.",
+    "punchline": "I call it insta-gram."
+  },
+  {
+    "category": "one_liner",
+    "setup": "I threw a boomerang a couple years ago.",
+    "punchline": "I know live in constant fear."
+  },
+  {
+    "category": "political",
+    "setup": "What�s the difference between baseball and politics?",
+    "punchline": "In baseball you�re out if you�re caught stealing."
+  },
+  {
+    "category": "political",
+    "setup": "Why are there no K-Marts in Syria?",
+    "punchline": "Cause there are targets everywhere!"
+  },
+  {
+    "category": "political",
+    "setup": "What do you call a lawyer who has gone bad?",
+    "punchline": "Senator."
+  },
+  {
+    "category": "political",
+    "setup": "What did Gandhi say to the British, after they asked him to move?",
+    "punchline": "Nah, mastay."
+  },
+  {
+    "category": "political",
+    "setup": "A politician will find an excuse to get out of anything.",
+    "punchline": "Except office."
+  },
+  {
+    "category": "political",
+    "setup": "What's the difference between 9/11 and a cow?",
+    "punchline": "You can't milk a cow for over 10 years."
+  },
+  {
+    "category": "political",
+    "setup": "Why does the queen carry a scepter?",
+    "punchline": "Because everyone works 'cept her."
+  },
+  {
+    "category": "political",
+    "setup": "What did the corrupt congressman order on Election Day?",
+    "punchline": "Stuffed ballots."
+  },
+  {
+    "category": "political",
+    "setup": "I don't approve of political jokes.",
+    "punchline": "I've seen too many of them get elected."
+  },
+  {
+    "category": "political",
+    "setup": "Best definition of dedundancy.",
+    "punchline": "A Politician with an airbag in his car."
+  },
+  {
+    "category": "political",
+    "setup": "To err is human.",
+    "punchline": "To blame someone else is politics."
+  },
+  {
+    "category": "political",
+    "setup": "What sport did the politician want to learn?",
+    "punchline": "How to Ballot Box."
+  },
+  {
+    "category": "political",
+    "setup": "I don't blame Congress.",
+    "punchline": "If I had $600 billion, I'd be irresponsible too."
+  },
+  {
+    "category": "political",
+    "setup": "What�s the difference between the government and the Mafia?",
+    "punchline": "One of them is organized."
+  },
+  {
+    "category": "political",
+    "setup": "What did the roller-blader wear to go voting?",
+    "punchline": "In-line skates."
+  },
+  {
+    "category": "political",
+    "setup": "What kind of limb did the candidate for president go on?",
+    "punchline": "An executive branch."
+  },
+  {
+    "category": "political",
+    "setup": "What grows longer every election year?",
+    "punchline": "The branches of government."
+  },
+  {
+    "category": "political",
+    "setup": "Where did the politician take his wife for something sweet?",
+    "punchline": "On a candydate."
+  },
+  {
+    "category": "political",
+    "setup": "Why did the county legislator fall asleep?",
+    "punchline": "He was one of the Bored Members."
+  },
+  {
+    "category": "political",
+    "setup": "What does it cost to vote?",
+    "punchline": "You�ll have to look at the Bill of Rights to find out."
+  },
+  {
+    "category": "political",
+    "setup": "Why did the boy vote for the bicycle?",
+    "punchline": "He liked how he spoke."
+  },
+  {
+    "category": "political",
+    "setup": "Why couldn�t the spaghetti vote in this district?",
+    "punchline": "He was an impasta."
+  },
+  {
+    "category": "political",
+    "setup": "What do you call a snake that works for the government?",
+    "punchline": "A civil serpent."
+  },
+  {
+    "category": "political",
+    "setup": "Why is Putin's government like Microsoft Edge?",
+    "punchline": "You can't uninstall either."
+  },
+  {
+    "category": "political",
+    "setup": "What do you call it when a government official assassinates a citizen?",
+    "punchline": "A Car Crash."
+  },
+  {
+    "category": "programming",
+    "setup": "Why are Assembly programmers always soaking wet?",
+    "punchline": "They work below C-level."
+  },
+  {
+    "category": "programming",
+    "setup": "Why do Java programmers have to wear glasses?",
+    "punchline": "Because they don�t C#."
+  },
+  {
+    "category": "programming",
+    "setup": "What�s the object-oriented way to become wealthy?",
+    "punchline": "Inheritance."
+  },
+  {
+    "category": "programming",
+    "setup": "Why did the programmer quit his job?",
+    "punchline": "Because he didn�t get arrays."
+  },
+  {
+    "category": "programming",
+    "setup": "UNIX is user friendly.",
+    "punchline": "It�s just very particular about who its friends are."
+  },
+  {
+    "category": "programming",
+    "setup": "I don�t see women as objects.",
+    "punchline": "I consider each to be in a class of her own."
+  },
+  {
+    "category": "programming",
+    "setup": "What�s the best thing thing about UDP jokes?",
+    "punchline": "I don�t care if you get them."
+  },
+  {
+    "category": "programming",
+    "setup": "What�s the best part about TCP jokes?",
+    "punchline": "I get to keep telling them until you get them."
+  },
+  {
+    "category": "programming",
+    "setup": "What is a programmer?",
+    "punchline": "A machine that turns coffee into code."
+  },
+  {
+    "category": "programming",
+    "setup": "Software can be fast, reliable and cheap.",
+    "punchline": "Choose any two."
+  },
+  {
+    "category": "programming",
+    "setup": "There are 10 kinds of people in the world.",
+    "punchline": "Those who understand binary and those who don�t."
+  },
+  {
+    "category": "programming",
+    "setup": "What did the Java Code say to the C code?",
+    "punchline": "You�ve got no class."
+  },
+  {
+    "category": "programming",
+    "setup": "Why do programmers prefer dark mode?",
+    "punchline": "Because light attracts bugs."
+  },
+  {
+    "category": "programming",
+    "setup": "What is the most used language in programming?",
+    "punchline": "Profanity."
+  },
+  {
+    "category": "programming",
+    "setup": "What do you call a programmer who vomits at IHOP?",
+    "punchline": "A stack overflow."
+  },
+  {
+    "category": "programming",
+    "setup": "A user interface is like a joke.",
+    "punchline": "If you have to explain it, it means it�s not good."
+  },
+  {
+    "category": "programming",
+    "setup": "What did the boolean say to the integer?",
+    "punchline": "You can�t handle the truth."
+  },
+  {
+    "category": "programming",
+    "setup": "How many programmers does it take to change a light bulb?",
+    "punchline": "None. It�s a hardware problem."
+  },
+  {
+    "category": "programming",
+    "setup": "What is hardware?",
+    "punchline": "It�s the part of a computer that can kick you."
+  },
+  {
+    "category": "programming",
+    "setup": "What is debugging?",
+    "punchline": "Removing the needles from the haystack."
+  },
+  {
+    "category": "programming",
+    "setup": "Why did the software coder enjoy pressing the F5 key?",
+    "punchline": "It was refreshing."
+  },
+  {
+    "category": "programming",
+    "setup": "What did the router say to the doctor?",
+    "punchline": "It hurts when IP."
+  },
+  {
+    "category": "programming",
+    "setup": "Why do programmers always mix up Halloween and Christmas?",
+    "punchline": "Because Oct 31 = Dec 25."
+  },
+  {
+    "category": "programming",
+    "setup": "Why did the boy get fired from his keyboard factory job?",
+    "punchline": "Because he was not putting enough shifts."
+  },
+  {
+    "category": "programming",
+    "setup": "What made the JavaScript developer so sad?",
+    "punchline": "He did not Node how to Express himself."
+  },
+  {
+    "category": "relationship",
+    "setup": "Why do wives use twice as many words as their husbands?",
+    "punchline": "Because they always have to repeat themselves."
+  },
+  {
+    "category": "relationship",
+    "setup": "Losing a significant other can be hard.",
+    "punchline": "In some cases, it�s impossible."
+  },
+  {
+    "category": "relationship",
+    "setup": "Have you seen the new divorced Barbie?",
+    "punchline": "She comes with all of Ken�s stuff."
+  },
+  {
+    "category": "relationship",
+    "setup": "I had a one night stand last year that went horribly wrong. ",
+    "punchline": "We�re married now."
+  },
+  {
+    "category": "relationship",
+    "setup": "I never knew true happiness until I got married.",
+    "punchline": "Then, it was too late."
+  },
+  {
+    "category": "relationship",
+    "setup": "How to lose a fight with your wife?",
+    "punchline": "Argue."
+  },
+  {
+    "category": "relationship",
+    "setup": "A man is incomplete until he�s married.",
+    "punchline": "Then he�s finished."
+  },
+  {
+    "category": "relationship",
+    "setup": "I know of no one who is happily married.",
+    "punchline": "Except my husband."
+  },
+  {
+    "category": "relationship",
+    "setup": "My wife and I took out life insurance policies on each other.",
+    "punchline": "So, now it�s just a waiting game."
+  },
+  {
+    "category": "relationship",
+    "setup": "What kind of ship has two mates but no captain?",
+    "punchline": "A relationship."
+  },
+  {
+    "category": "relationship",
+    "setup": "My girlfriend says I don�t respect her privacy.",
+    "punchline": "At least that�s what she wrote in her diary."
+  },
+  {
+    "category": "relationship",
+    "setup": "Once you�re married, people stop asking about your sex life.",
+    "punchline": "They know you don�t have one."
+  },
+  {
+    "category": "relationship",
+    "setup": "What do you call a woman who knows where her husband is every night?",
+    "punchline": "A widow."
+  },
+  {
+    "category": "relationship",
+    "setup": "I tried to remarry my ex.",
+    "punchline": "She figured out I was only after my money."
+  },
+  {
+    "category": "relationship",
+    "setup": "My boyfriend left me for being too old fashioned. ",
+    "punchline": "It�s a shame.I thought we had great alchemy."
+  },
+  {
+    "category": "relationship",
+    "setup": "My husband and I had a blissful first 25 years.",
+    "punchline": "And then we met and got married."
+  },
+  {
+    "category": "relationship",
+    "setup": "I recently ended a long-term relationship.",
+    "punchline": "It�s OK, though It wasn�t mine."
+  },
+  {
+    "category": "relationship",
+    "setup": "People always ask me why I�m single.",
+    "punchline": "I�m single by choice, just not my choice."
+  },
+  {
+    "category": "relationship",
+    "setup": "There are two times men don�t understand women.",
+    "punchline": "Before and after marriage."
+  },
+  {
+    "category": "relationship",
+    "setup": "I love a man with confidence. ",
+    "punchline": "Without that, what�s left to destroy?"
+  },
+  {
+    "category": "relationship",
+    "setup": "How many divorced men does it take to change a light bulb?",
+    "punchline": "None because they never get the house."
+  },
+  {
+    "category": "relationship",
+    "setup": "How can you tell if a woman is divorced?",
+    "punchline": "She�s bungee jumping for joy."
+  },
+  {
+    "category": "relationship",
+    "setup": "My husband said he needed more space.",
+    "punchline": "I locked him outside."
+  },
+  {
+    "category": "relationship",
+    "setup": "Want to convert your sofa into a sofa bed?",
+    "punchline": "Just forget your anniversary."
+  },
+  {
+    "category": "relationship",
+    "setup": "Why is divorce so expensive?",
+    "punchline": "Because it�s worth it."
+  },
+  {
+    "category": "religious",
+    "setup": "How do you make holy water?",
+    "punchline": "You boil the hell out of it."
+  },
+  {
+    "category": "religious",
+    "setup": "What kind of car does Jesus drive?",
+    "punchline": "A Christler."
+  },
+  {
+    "category": "religious",
+    "setup": "Why are atoms Catholic?",
+    "punchline": "Because they have mass."
+  },
+  {
+    "category": "religious",
+    "setup": "How does Moses make his tea?",
+    "punchline": "Hebrews it."
+  },
+  {
+    "category": "religious",
+    "setup": "What's faster than a cheetah?",
+    "punchline": "A Jew with a coupon!"
+  },
+  {
+    "category": "religious",
+    "setup": "What do you call batman skipping church.",
+    "punchline": "Christian Bale."
+  },
+  {
+    "category": "religious",
+    "setup": "What do you call a sleepwalking nun?",
+    "punchline": "A roamin-catholic."
+  },
+  {
+    "category": "religious",
+    "setup": "Seen while passing by a church:",
+    "punchline": "Get in touch with God by knee mail."
+  },
+  {
+    "category": "religious",
+    "setup": "When is medicine first mentioned in the Bible?",
+    "punchline": "When God gave Moses two tablets."
+  },
+  {
+    "category": "religious",
+    "setup": "At what time of day did God create Adam?",
+    "punchline": "Just before Eve."
+  },
+  {
+    "category": "religious",
+    "setup": "Did Eve have a date with Adam?",
+    "punchline": "No, just an apple."
+  },
+  {
+    "category": "religious",
+    "setup": "Who was the fastest runner in the race?",
+    "punchline": "Adam, as he was first in the human race."
+  },
+  {
+    "category": "religious",
+    "setup": "I went running with my Bible.",
+    "punchline": "Now my Psalms are sweaty."
+  },
+  {
+    "category": "religious",
+    "setup": "When was meat first mentioned in the Bible?",
+    "punchline": "When Noah took ham into the ark."
+  },
+  {
+    "category": "religious",
+    "setup": "How do we know Peter was a rich fisherman?",
+    "punchline": "By his net income."
+  },
+  {
+    "category": "religious",
+    "setup": "What�s a missionary�s favorite type of car?",
+    "punchline": "A convertible."
+  },
+  {
+    "category": "religious",
+    "setup": "What does God call his nose?",
+    "punchline": "God knows."
+  },
+  {
+    "category": "religious",
+    "setup": "Why did God create man before woman?",
+    "punchline": "Because He didn�t want any advice on how to do it."
+  },
+  {
+    "category": "religious",
+    "setup": "What�s a miracle that can be done by a complainer?",
+    "punchline": "Turning anything into whine."
+  },
+  {
+    "category": "religious",
+    "setup": "Why did Moses cross the Red Sea?",
+    "punchline": "To get to the other side."
+  },
+  {
+    "category": "religious",
+    "setup": "The thief that stole my diary and my Bible died today.",
+    "punchline": "My thoughts and prayers are with his family."
+  },
+  {
+    "category": "religious",
+    "setup": "Why did the hawk sit on the church steeple?",
+    "punchline": "Because it was a bird of pray."
+  },
+  {
+    "category": "religious",
+    "setup": "In the Bible, Jesus turned water into wine.",
+    "punchline": "But then Chuck Norris turned that wine into beer."
+  },
+  {
+    "category": "religious",
+    "setup": "What did Adam say on the day before Christmas?",
+    "punchline": "It�s Christmas, Eve!"
+  },
+  {
+    "category": "religious",
+    "setup": "How long did Cain hate his brother?",
+    "punchline": "As long as he was Abel."
+  },
+  {
+    "category": "school",
+    "setup": "Name the flying mammal in the kindergarten class.",
+    "punchline": "AlphaBAT."
+  },
+  {
+    "category": "school",
+    "setup": "What�s so fresh in the chemistry class?",
+    "punchline": "The experiMINTS."
+  },
+  {
+    "category": "school",
+    "setup": "Why did the student throw her watch out of the school window?",
+    "punchline": "She wanted to see time fly."
+  },
+  {
+    "category": "school",
+    "setup": "Why do magicians score well in exams?",
+    "punchline": "Because they can handle tricky questions."
+  },
+  {
+    "category": "school",
+    "setup": "Why does the math class make students sad?",
+    "punchline": "Because it is full of problems."
+  },
+  {
+    "category": "school",
+    "setup": "Why does the music teacher need a ladder in the school?",
+    "punchline": "To reach higher notes."
+  },
+  {
+    "category": "school",
+    "setup": "How do bees go to school?",
+    "punchline": "By school buzz."
+  },
+  {
+    "category": "school",
+    "setup": "Which is the tallest school building?",
+    "punchline": "The library�because it has many STORIES."
+  },
+  {
+    "category": "school",
+    "setup": "Why is six afraid of seven?",
+    "punchline": "Because seven ATE nine."
+  },
+  {
+    "category": "school",
+    "setup": "What is a snake�s favorite subject?",
+    "punchline": "HISStory."
+  },
+  {
+    "category": "school",
+    "setup": "Who is the leader of the school supplies?",
+    "punchline": "The ruler."
+  },
+  {
+    "category": "school",
+    "setup": "What is a boy in a class with a dictionary in his pants called?",
+    "punchline": "Smartie pants."
+  },
+  {
+    "category": "school",
+    "setup": "What�s the best place to grow flowers in a school.",
+    "punchline": "KinderGARDEN."
+  },
+  {
+    "category": "school",
+    "setup": "Which school do the birds go to?",
+    "punchline": "High school."
+  },
+  {
+    "category": "school",
+    "setup": "Which is the shortest month of the year?",
+    "punchline": "May�Because it has only 3 letters."
+  },
+  {
+    "category": "school",
+    "setup": "Why does a dog do so well in school?",
+    "punchline": "Because it�s the teacher�s pet."
+  },
+  {
+    "category": "school",
+    "setup": "What did the paper say to the pen?",
+    "punchline": "You have a good point."
+  },
+  {
+    "category": "school",
+    "setup": "What is black when it�s clean and white when it�s dirty?",
+    "punchline": "The blackboard."
+  },
+  {
+    "category": "school",
+    "setup": "Why are fish considered the smartest?",
+    "punchline": "Because they live in schools."
+  },
+  {
+    "category": "school",
+    "setup": "Why do we measure a snake in inches?",
+    "punchline": "Because it does not have feet."
+  },
+  {
+    "category": "school",
+    "setup": "What�s the calculator�s favorite statement?",
+    "punchline": "You can count on me."
+  },
+  {
+    "category": "school",
+    "setup": "Which school do the surfers go to?",
+    "punchline": "The Boarding school."
+  },
+  {
+    "category": "school",
+    "setup": "A room that a student can never enter.",
+    "punchline": "A mushROOM."
+  },
+  {
+    "category": "school",
+    "setup": "Why was the echo detained at school?",
+    "punchline": "Because it replied every single time."
+  },
+  {
+    "category": "school",
+    "setup": "A butterfly�s favorite subject.",
+    "punchline": "MOTHematics."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama's so poor,",
+    "punchline": "the ducks throw bread at her."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama's cooking is so nasty,",
+    "punchline": "the house flies got together to fix the hole in the window screen."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama's so depressing,",
+    "punchline": "blues singers come to visit her when they've got writer's block."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama's so short,",
+    "punchline": "you can see her feet on her driver's license."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama is so old,she walked into an antique store, ",
+    "punchline": "and they didn't let her leave."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama's so classless,",
+    "punchline": "she's a Marxist utopia."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo momma is so poor,",
+    "punchline": "she chases the garbage truck with a grocery list."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo momma's armpits are so hairy,",
+    "punchline": "it looks like she's got Buckwheat in a headlock."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama's so lazy,",
+    "punchline": "she has a stay-at-home job and still is late to work."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo momma so old,",
+    "punchline": "her Social Security number is one."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama is so mean,",
+    "punchline": "that Taylor Swift wrote a song about her."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo momma so short,",
+    "punchline": "she went to see Santa and he told her to get back to work."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama's so nasty,",
+    "punchline": "they used to call them \"jumpolines\" 'til she bounced on one."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama is so strict,",
+    "punchline": "she enforced a curfew for the entire neighborhood."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo momma so old,",
+    "punchline": "she knew Burger King when he was a prince."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama is so nasty,",
+    "punchline": "she went swimming and made the Dead Sea."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama's so poor,",
+    "punchline": "Nigerian princes wire her money."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo momma so short,",
+    "punchline": "she has to slam dunk her bus fare."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama's glasses are so thick when she looks at a map,",
+    "punchline": "she can see people waving."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo momma so old,",
+    "punchline": "she was a waitress at the Last Supper."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama's house is so dirty,",
+    "punchline": "she has to wipe her feet before she goes outside."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama is so mean,",
+    "punchline": "even Hello Kitty said goodbye."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama is so nice,",
+    "punchline": "she'd give me the hair off her back."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo mama's lips are so big,",
+    "punchline": "when she smiles she gets Chapstick on her ears."
+  },
+  {
+    "category": "yo_momma",
+    "setup": "Yo momma is so lazy,",
+    "punchline": "she stuck her nose out the window and let the wind blow it."
+  }
+ ]

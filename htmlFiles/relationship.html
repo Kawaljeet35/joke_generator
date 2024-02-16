@@ -33,8 +33,12 @@
     <div class="container">
         <img src="../images/relationship.png" alt="Relationship">
         <div id="joke"></div>
+        <button id="backToCategoryBtn">Back to Category</button>
     </div>
     <script>
+        document.getElementById("backToCategoryBtn").addEventListener("click", function() {
+        window.location.href = "../index.html";
+    });
         document.addEventListener("DOMContentLoaded", function() {
             // Code to execute after the DOM is fully loaded
             fetch('../jokes.json')

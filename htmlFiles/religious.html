@@ -36,7 +36,17 @@
             border: 1px solid transparent;
             padding: 3px;
             cursor: pointer;
-        }  
+        } 
+        #refresh{
+            width: 15lvw;
+            background-color: rgb(1, 147, 145);
+            color: white;
+            border-radius: 25px;
+            font-size: large;
+            border: 1px solid transparent;
+            padding: 3px;
+            cursor: pointer;  
+        } 
     </style>
 </head>
 <body>
@@ -44,6 +54,7 @@
         <img src="../images/religious.png" alt="Religious">
         <div id="joke"></div>
         <button id="backToCategoryBtn">Back to Category</button>
+        <button id="refresh" onclick="refreshPage()">Generate New Joke</button>
     </div>
     <script>
         document.getElementById("backToCategoryBtn").addEventListener("click", function() {
@@ -73,6 +84,9 @@
                     console.error('Error fetching jokes:', error);
                 });
         });
+        function refreshPage() {
+      location.reload();
+    }
     </script>
     <script src="../script.js"></script>
 </body>

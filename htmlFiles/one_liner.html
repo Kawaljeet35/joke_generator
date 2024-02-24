@@ -28,23 +28,23 @@
             margin-bottom: 20px;
         }
         #backToCategoryBtn{
-            width: 15lvw;
+            width: max-content;
             background-color: rgb(1, 147, 145);
             color: white;
             border-radius: 25px;
             font-size: large;
             border: 1px solid transparent;
-            padding: 3px;
+            padding: .3em;
             cursor: pointer;
-        }  
+        }
         #refresh{
-            width: 15lvw;
+            width: max-content;
             background-color: rgb(1, 147, 145);
             color: white;
             border-radius: 25px;
             font-size: large;
             border: 1px solid transparent;
-            padding: 3px;
+            padding: .3em;
             cursor: pointer;  
         } 
     </style>
@@ -54,7 +54,7 @@
         <img src="../images/one_liner.png" alt="One Liner">
         <div id="joke"></div>
         <button id="backToCategoryBtn">Back to Category</button>
-        <button id="refresh" onclick="refreshPage()">Next Joke</button>
+        <button id="refresh" onclick="refreshPage()">Generate Another</button>
     </div>
     <script>
         document.getElementById("backToCategoryBtn").addEventListener("click", function() {
